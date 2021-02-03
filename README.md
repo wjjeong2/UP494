@@ -7,7 +7,7 @@
 | Assignment | Upload Date (latest) | Notes |
 |-|-|-|
 | Grading Contract |  |  |
-| R Learner's Permit | 2/2/2021 |uploaded R notebooks for class on Feb 2|
+| R Learner's Permit |  |  |
 | Class Reflections | 1/29/2021 |  |
 | Polished Lab Notebooks |  |  |
 | Final Project Proposal |  |  |
