@@ -10,7 +10,7 @@
 | R Learner's Permit | 2/18/2021 |  |
 | Class Reflections | 3/4/2021 |Week 1-6|
 | Polished Lab Notebooks |  |  |
-| Final Project Proposal |  |  |
+| Final Project Proposal | 3/5/2021 |  |
 | Final Project Background |  |  |
 | Final Project Presentation |  |  |
 | Final Project |  |  |
